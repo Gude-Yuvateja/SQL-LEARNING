@@ -1,5 +1,5 @@
 # SQL-LEARNING
-    This repository contains my SQL learning and practice queries. 
+        This repository contains my SQL learning and practice queries. 
 
 # Topics Covered
 
